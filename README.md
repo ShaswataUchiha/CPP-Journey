@@ -22,11 +22,11 @@ In this repository, I am sharing my exploration of C++ through the lens of data 
 
 The repository is organized as follows:
 
-- `src/`: This directory contains C++ source code files.
-- `data-structures/`: Here, you'll find various data structures implementations.
-- `algorithms/`: This directory contains implementations of different algorithms.
-- `exercises/`: I've included coding challenges and exercises related to data structures and algorithms here.
-- `documentation/`: You can find detailed explanations and documentation on various topics within this directory.
+- This directory contains C++ source code files.
+- Here, you'll find various data structures implementations.
+- This directory contains implementations of different algorithms.
+- I've included coding challenges and exercises related to data structures and algorithms here.
+- You can find detailed explanations and documentation on various topics within this directory.
 
 ## Documentation
 
